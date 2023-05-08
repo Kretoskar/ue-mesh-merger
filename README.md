@@ -5,3 +5,6 @@ Extended version of Unreal's skeletal mesh merging solution. Developed for "Shov
 - Actor component for generating merged skeletal mesh
 - Randomizing merged result
 - Optional skeletal meshes
+
+
+![alt text](https://iili.io/HSyoVVt.png)
