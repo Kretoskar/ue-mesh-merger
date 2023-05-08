@@ -7,4 +7,4 @@ Extended version of Unreal's skeletal mesh merging solution. Developed for "Shov
 - Optional skeletal meshes
 
 
-![alt text](https://iili.io/HSyoVVt.png)
+![alt text](https://iili.io/HSyxBst.png)
